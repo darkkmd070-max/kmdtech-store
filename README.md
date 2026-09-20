@@ -1,2 +1,2 @@
-# kmdtech-storey
+# kmdtech-store
 my business 
